@@ -1,7 +1,7 @@
 # food_app
 
 Hello everyone,
-I want to share the food app with you. In this application, I used provider for state management in this application. 
+I want to share the food app with you. I used provider for state management in this application. 
 Some features of the application;
 Detail pages, adding favorite, adding products to the basket and determining the number of products...
   
